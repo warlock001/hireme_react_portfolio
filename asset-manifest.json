@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/hireme_react_portfolio/static/css/main.13ecc894.chunk.css",
-    "main.js": "/hireme_react_portfolio/static/js/main.9435c29b.chunk.js",
-    "main.js.map": "/hireme_react_portfolio/static/js/main.9435c29b.chunk.js.map",
+    "main.css": "/hireme_react_portfolio/static/css/main.78927269.chunk.css",
+    "main.js": "/hireme_react_portfolio/static/js/main.364b894b.chunk.js",
+    "main.js.map": "/hireme_react_portfolio/static/js/main.364b894b.chunk.js.map",
     "runtime-main.js": "/hireme_react_portfolio/static/js/runtime-main.c057cc94.js",
     "runtime-main.js.map": "/hireme_react_portfolio/static/js/runtime-main.c057cc94.js.map",
     "static/js/2.49dc5a40.chunk.js": "/hireme_react_portfolio/static/js/2.49dc5a40.chunk.js",
@@ -10,9 +10,10 @@
     "static/js/3.201a1b4d.chunk.js": "/hireme_react_portfolio/static/js/3.201a1b4d.chunk.js",
     "static/js/3.201a1b4d.chunk.js.map": "/hireme_react_portfolio/static/js/3.201a1b4d.chunk.js.map",
     "index.html": "/hireme_react_portfolio/index.html",
-    "static/css/main.13ecc894.chunk.css.map": "/hireme_react_portfolio/static/css/main.13ecc894.chunk.css.map",
+    "static/css/main.78927269.chunk.css.map": "/hireme_react_portfolio/static/css/main.78927269.chunk.css.map",
     "static/js/2.49dc5a40.chunk.js.LICENSE.txt": "/hireme_react_portfolio/static/js/2.49dc5a40.chunk.js.LICENSE.txt",
     "static/media/Key-Components-for-Designing-Mobile-App.9c6ec20d.png": "/hireme_react_portfolio/static/media/Key-Components-for-Designing-Mobile-App.9c6ec20d.png",
+    "static/media/Zabloon Albert Resume Developer.244d6e4f.pdf": "/hireme_react_portfolio/static/media/Zabloon Albert Resume Developer.244d6e4f.pdf",
     "static/media/index.css": "/hireme_react_portfolio/static/media/bg.999bb25a.jpg",
     "static/media/logo.821fd3bf.png": "/hireme_react_portfolio/static/media/logo.821fd3bf.png",
     "static/media/zaby.7a529851.gif": "/hireme_react_portfolio/static/media/zaby.7a529851.gif"
@@ -20,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.c057cc94.js",
     "static/js/2.49dc5a40.chunk.js",
-    "static/css/main.13ecc894.chunk.css",
-    "static/js/main.9435c29b.chunk.js"
+    "static/css/main.78927269.chunk.css",
+    "static/js/main.364b894b.chunk.js"
   ]
 }
